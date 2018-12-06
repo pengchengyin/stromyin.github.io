@@ -1,0 +1,27 @@
+html{
+	font-family: 'Black And White Picture', sans-serif;
+	background-color:#DBDADA
+}
+h1{
+	margin:0;
+	padding:20px 0;
+	color: #00539F;
+	text-shadow:3px 3px 10px black;
+	font-size:60px;
+}
+p ,li,ol{
+	font-size:30px;
+	line-hight:2;
+	letter-spacing:1px;
+}
+body{
+	background-color:#F77878;
+	width:600px;
+	margin:20px auto;
+	padding:0px 10px 10px 10px;
+	border:5px solid black;
+}
+img{
+	display: block;
+	margin: 0 auto;
+}
